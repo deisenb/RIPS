@@ -43,7 +43,7 @@ class cable():
         A_c             % line cross-sectional area (m^2)
         Nu              % Nusselt number
         Re              % Reynolds number
-
+        Poop            % This is poop
     """
    
     def __init__(self, code_name=None, model=None, n_conductors=1, **kwargs):
